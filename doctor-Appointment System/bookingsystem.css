@@ -1,0 +1,27 @@
+body, html {
+	background-color:rgb(255, 255, 255);
+    height: 100%;
+    margin: 0;
+	background-position:center;
+	background-repeat: repeat-y;
+	background-size: cover;
+	background-attachment:fixed;
+	font-family:verdana;
+}
+
+.div {
+background-color: aqua;
+height: 60px;
+width: 200px;
+justify-content: center;
+}
+tr{
+    margin: 50px;
+    padding: 50px;
+    margin: auto;
+    background-color: rebeccapurple;
+}
+
+.div:hover{
+    background-color: whites;
+}
